@@ -1,14 +1,12 @@
 ### About
 
-- I usually code in JS, Dart, English, HTML
+- I usually code in JS, Dart, HTML
 - I used to make cheese for a living
 - Co-founder https://vybe.social
 
 ### Contact
 
-[![email](https://img.shields.io/badge/email-contact@mrnb.net-blue)](mailto:contact@mrnb.net)
-
-![phone](https://img.shields.io/badge/phone-I_won't_give_you_that-orange)
+Email: contact@mrnb.net
 
 # Fun fact
 
