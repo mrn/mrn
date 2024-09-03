@@ -6,8 +6,9 @@
 
 ### Contact
 
-- [![email](https://img.shields.io/badge/email-contact@mrnb.net-blue)](mailto:contact@mrnb.net)
-- ![phone](https://img.shields.io/badge/phone-I_won't_give_you_that-orange)
+[![email](https://img.shields.io/badge/email-contact@mrnb.net-blue)](mailto:contact@mrnb.net)
+
+![phone](https://img.shields.io/badge/phone-I_won't_give_you_that-orange)
 
 # Fun fact
 
