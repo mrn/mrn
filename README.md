@@ -6,8 +6,9 @@
 
 ### Contact
 
-- contact@mrnb.net
+- [![email](https://img.shields.io/badge/email-contact@mrnb.net-blue)](mailto:contact@mrnb.net)
+- ![phone](https://img.shields.io/badge/phone-I_won't_give_you_that-orange)
 
-### Fun fact
+# Fun fact
 
-- Your old passwords most likely got leaked in a hack. Check [here](https://haveibeenpwned.com/) (not my site)
+- Your old passwords are probably public because of hacks from years ago - check [here](https://haveibeenpwned.com/) (not my site)
