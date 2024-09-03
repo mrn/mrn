@@ -10,4 +10,4 @@ Email: contact@mrnb.net
 
 # Fun fact
 
-- Your old passwords are probably public because of hacks from years ago - check [here](https://haveibeenpwned.com/) (not my site)
+Your old passwords are probably public because of hacks from years ago - check [here](https://haveibeenpwned.com/) (not my site)
