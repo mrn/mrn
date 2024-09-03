@@ -8,7 +8,7 @@ Co-founder https://vybe.social
 
 ![Mood badge](https://img.shields.io/badge/Chill_status-100%25-teal)
 
-[![Music badge](https://img.shields.io/badge/Currently_listening_to-Pete_Namlook:_Silence_V-purple)](https://www.youtube.com/watch?v=7AzcVC6aIvI)
+[![Music badge](https://img.shields.io/badge/Listening_to-Pete_Namlook:_Silence_V-purple)](https://www.youtube.com/watch?v=7AzcVC6aIvI)
 
 
 ### Contact
