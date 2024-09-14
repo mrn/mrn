@@ -1,5 +1,7 @@
 ### About
 
+[marinbelec.com](https://marinbelec.com)
+
 I usually code in JS, Dart, English, HTML
 
 I used to make cheese for a living
@@ -13,8 +15,9 @@ Co-founder https://vybe.social
 
 ### Contact
 
-Email: contact@mrnb.net
+Software development: contact@mrnb.net
 
+Business inquiries: contact@marinbelec.com
 
 ### Fun fact
 
