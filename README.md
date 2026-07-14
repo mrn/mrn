@@ -3,13 +3,13 @@
 
 [bel.ec](https://bel.ec)
 
-Full time: making trading algos
+Full time: building [hacklab](https://hacklab.so)
 
 Part time: working on a [reading app](https://readingapp.mrnb.net) and [making music](https://soundcloud.com/marinaut)
 
 Previously cofounder of a [party app](https://vybe.social) (100k+ users)
 
-"Real" work experience: I worked in a cheese factory
+Real irl work experience: I worked in a cheese factory
 
 Theme song: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
@@ -19,4 +19,4 @@ Theme song: https://www.youtube.com/watch?v=7AzcVC6aIvI
 
 Nostr npub1m3c7arrpaj9e0zypyprkzg5eqvenj3qpk7ern32qtydfqmw8vcks9szk59
 
-Email on [my website](https://bel.ec)
+Or email - find my address on [my website](https://bel.ec)
